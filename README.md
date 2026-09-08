@@ -25,3 +25,7 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * ✨ [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter) - Original browser shooter. Three.js doodle/sketch-style shooter; playable in-browser. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/threejs/status/2096941028297109808)
 * ✨ [Voxpolia](https://endstreet.itch.io/voxpolia) - Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
 * ✨ [Cycle](https://cycle.ui8.dev) - Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding or changing entries.
