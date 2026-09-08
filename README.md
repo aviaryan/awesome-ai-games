@@ -22,6 +22,7 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * [Claude of Duty: Vibe Slops II](https://vibeslops.luckeysystems.com/) - Inspired by Call of Duty: Black Ops II. Three.js FPS; BO2 map export; gunplay; multiplayer-style flow. Possible launch: ~2026-09-02. Source: [Tweet](https://x.com/threejs/status/2096829728170897425)
 * [Modern Claudefare](https://www.modernclaudefare.com/) - Inspired by Call of Duty / Modern Warfare multiplayer (Rust, Nuketown, Highrise, Terminal). Three.js; bots + up to 4-player MP with voice; TDM/FFA; procedural weapons; controller support; desktop-oriented. Possible launch: ~2026-08-03. Source: [Tweet](https://x.com/0xRishi/status/2084322235788226653)
 * [Claude of Duty](https://ericspencer.us/Claude-of-Duty/) - Inspired by modern Call of Duty FPS. Distinct from Vibe Slops II. Three.js + WebGL2; procedural art/audio; ADS/lean/AI; [open source](https://github.com/mshumer/Claude-of-Duty). Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/mattshumer_/status/2081054356405731740)
+* [Astral War](https://astralwar.io/) - Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplayer lobbies; bots; perks; controller; voice chat. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/0xRishi/status/2096079660605997264)
 
 #### Others
 
@@ -33,6 +34,8 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * ✨ [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter) - Original browser shooter. Three.js doodle/sketch-style shooter; playable in-browser. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/threejs/status/2096941028297109808)
 * ✨ [Voxpolia](https://endstreet.itch.io/voxpolia) - Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
 * ✨ [Cycle](https://cycle.ui8.dev) - Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
+* ✨ [Waldo](https://waldo.brutefloat.com) - Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
+* ✨ [Operation Ironhold](https://starknightt.github.io/operation-ironhold/) - Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
 
 ## Contributing
 
