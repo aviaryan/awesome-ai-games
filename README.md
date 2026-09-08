@@ -2,13 +2,11 @@
 
 This is a list of classic fun games that you can play in the browser.
 
-✨ = Original game (not a remake/clone of a classic)
-
 Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public tweet found that announces or shares the playable game. Source tweets may be later high-engagement discovery posts.
 
 ## The List
 
-### Remakes / inspired-by
+### 🦄 Remakes / inspired-by
 
 #### Racing
 
@@ -29,13 +27,13 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * [Vesperfall](https://vesperfall.mengto.chatgpt.site) - Inspired by Diablo-style isometric action RPGs. Three.js; camera; VFX; audio; monsters; combat; open-source assets/skills. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/MengTo/status/2080915786206789733)
 * [The Long Silence](https://longsilence.anshu.dev/) - Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; zero external assets; ship walk + flight + landings; MIT open source. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/anshuc/status/2081801966158811506)
 
-### Originals
+### 🥳 Originals
 
-* ✨ [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter) - Original browser shooter. Three.js doodle/sketch-style shooter; playable in-browser. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/threejs/status/2096941028297109808)
-* ✨ [Voxpolia](https://endstreet.itch.io/voxpolia) - Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
-* ✨ [Cycle](https://cycle.ui8.dev) - Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
-* ✨ [Waldo](https://waldo.brutefloat.com) - Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
-* ✨ [Operation Ironhold](https://starknightt.github.io/operation-ironhold/) - Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
+* [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter) - Original browser shooter. Three.js doodle/sketch-style shooter; playable in-browser. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/threejs/status/2096941028297109808)
+* [Voxpolia](https://endstreet.itch.io/voxpolia) - Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
+* [Cycle](https://cycle.ui8.dev) - Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
+* [Waldo](https://waldo.brutefloat.com) - Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
+* [Operation Ironhold](https://starknightt.github.io/operation-ironhold/) - Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
 
 ## Contributing
 
