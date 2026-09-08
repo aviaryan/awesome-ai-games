@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="assets/hero.png" alt="Awesome AI Games - classic games rebuilt by AI, playable in your browser" width="100%">
-</p>
-
 # Awesome AI Games (Just the Classics)
 
-A curated list of classic-style games remade or built from scratch with AI, all playable in the browser.
+This is a list of classic fun games that you can play in the browser.
 
 ✨ = Original game (not a remake/clone of a classic)
 
