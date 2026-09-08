@@ -17,6 +17,8 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * [APEX / Coast Run](https://apex-coast-run.mindblown.ai) - Inspired by Need for Speed. Coastal arcade racer; mobile/desktop perf modes. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/mindblown_ai/status/2097053892152594854)
 * [Claude of Duty](https://ericspencer.us/Claude-of-Duty/) - Inspired by modern Call of Duty FPS. Distinct from Vibe Slops II. Three.js + WebGL2; procedural art/audio; ADS/lean/AI; [open source](https://github.com/mshumer/Claude-of-Duty). Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/mattshumer_/status/2081054356405731740)
 * [Storm Race](https://storm-race.vercel.app) - Inspired by Bakusou Kyoudai Let's & Go!! (mini 4WD / childhood racing). Browser 3D racing; selectable/customizable vehicles; tracks; racing HUD; GPT-6 Astra + Three.js. Possible launch: ~2026-09-06. Source: [Tweet](https://x.com/threejs/status/2096864793873547713)
+* [Rocket Arena](https://rl-opus5.vercel.app/) - Inspired by Rocket League. Three.js + Rapier physics; bots; gamepad; Cloudflare Worker multiplayer. Possible launch: ~2026-07-24. Source: [Tweet](https://x.com/LLMJunky/status/2080740121398120655)
+* [The Long Silence](https://longsilence.anshu.dev/) - Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; zero external assets; ship walk + flight + landings; MIT open source. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/anshuc/status/2081801966158811506)
 
 ### Originals
 
