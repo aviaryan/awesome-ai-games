@@ -14,6 +14,7 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * [APEX / Coast Run](https://apex-coast-run.mindblown.ai) - Inspired by Need for Speed. Coastal arcade racer; mobile/desktop perf modes. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/mindblown_ai/status/2097053892152594854)
 * [Storm Race](https://storm-race.vercel.app) - Inspired by Bakusou Kyoudai Let's & Go!! (mini 4WD / childhood racing). Browser 3D racing; selectable/customizable vehicles; tracks; racing HUD; GPT-6 Astra + Three.js. Possible launch: ~2026-09-06. Source: [Tweet](https://x.com/threejs/status/2096864793873547713)
 * [Rocket Arena](https://rl-opus5.vercel.app/) - Inspired by Rocket League. Three.js + Rapier physics; bots; gamepad; Cloudflare Worker multiplayer. Possible launch: ~2026-07-24. Source: [Tweet](https://x.com/LLMJunky/status/2080740121398120655)
+* [Kart Royale](https://racing.ryancampbell.com/) - Inspired by Mario Kart. Browser kart racer; Opus 5-built; controls/camera/mobile/perf. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/mattshumer_/status/2082509137024274544)
 
 #### First-person shooters
 
@@ -26,6 +27,7 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 
 * [Vesperfall](https://vesperfall.mengto.chatgpt.site) - Inspired by Diablo-style isometric action RPGs. Three.js; camera; VFX; audio; monsters; combat; open-source assets/skills. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/MengTo/status/2080915786206789733)
 * [The Long Silence](https://longsilence.anshu.dev/) - Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; zero external assets; ship walk + flight + landings; MIT open source. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/anshuc/status/2081801966158811506)
+* [Starfall](https://e01.ai/starfall/) - Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/mikeluan123/status/2081716631986983093)
 
 ### 🥳 Originals
 
@@ -34,6 +36,8 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 * [Cycle](https://cycle.ui8.dev) - Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
 * [Waldo](https://waldo.brutefloat.com) - Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
 * [Operation Ironhold](https://starknightt.github.io/operation-ironhold/) - Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
+* [NFTURBO](https://nfturbo.polaris.city/) - Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launch: ~2026-07-18. Source: [Tweet](https://x.com/brvchss/status/2078421321856245846)
+* [King's Gambit](https://medieval-3d-chess.rork.app/) - Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
 
 ## Contributing
 
