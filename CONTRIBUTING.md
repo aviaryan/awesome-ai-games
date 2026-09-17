@@ -97,14 +97,26 @@ Keep the list concise. One bullet per game, in this order:
 * ✨ [Game Name](https://example.com/play) - Original short description. Short features. Possible launch: ~YYYY-MM-DD. Source: [Tweet](https://x.com/handle/status/…)
 ```
 
-Copy punctuation, field order, and legends from existing README entries. Do not add extra badges, tables, or screenshots.
+Copy punctuation, field order, and legends from existing README entries. Do not add extra badges or tables.
+
+## Images
+
+Each game has **one** gameplay image in [README.md](README.md).
+
+- Store the file under `images/` (one image per game). Prefer **WebP**. Files under `images/` are tracked with **Git LFS** (see `.gitattributes`).
+- Longest side must be **at most 512px** (512px on the long edge is the cap, and is preferred). Do not commit larger originals.
+- Prefer media from the **Source tweet** (still image, or a video poster / first frame). Avoid full browser-chrome screenshots (address bar, tabs, OS window).
+- Add an `<img>` in the README using the same markup as existing entries (currently `width="512"`). Copy `src` / `alt` style from a neighboring game.
+
+Do not re-encode or resize existing `images/` files unless you are replacing the screenshot itself.
 
 ## How to contribute
 
 1. Fork this repository and branch from the default branch (`main`).
 2. Edit [README.md](README.md). Follow the criteria and formatting above.
-3. **Verify the play link still works** before you open a PR.
-4. Confirm the Source tweet is real, and that Possible launch is estimated from the earliest playable-game tweet you found.
-5. Open a pull request that says why the game meets the quality bar (likes, comments, working link).
+3. Add one gameplay image under `images/` (see **Images**) and track it with Git LFS.
+4. **Verify the play link still works** before you open a PR.
+5. Confirm the Source tweet is real, and that Possible launch is estimated from the earliest playable-game tweet you found.
+6. Open a pull request that says why the game meets the quality bar (likes, comments, working link).
 
 PRs that invent games or tweets, add non-games, or ignore README style will be rejected.
