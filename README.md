@@ -1,6 +1,6 @@
-# Awesome AI Games (Just the Classics)
+# Awesome AI Games
 
-This is a list of classic fun games that you can play in the browser.
+This is a list of AI-made games you can play in the browser — remakes of familiar titles as well as original games.
 
 Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public tweet found that announces or shares the playable game. Source tweets may be later high-engagement discovery posts.
 
