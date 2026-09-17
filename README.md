@@ -20,31 +20,31 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
 
 #### [Hop.Earth](https://hop.earth/)
 
-<img src="images/hop-earth.webp" width="368" alt="Hop.Earth gameplay">
+<img src="images/hop-earth.webp" width="512" alt="Hop.Earth gameplay">
 
 Inspired by Need for Speed × Google Maps. Three.js/WebGL; OSM roads + terrain; parachute drop; call a car; multiplayer races. Possible launch: ~2026-08-03. Source: [Tweet](https://x.com/DVLPLONDON/status/2084139787447857637)
 
 #### [APEX / Coast Run](https://apex-coast-run.mindblown.ai)
 
-<img src="images/apex-coast-run.webp" width="368" alt="APEX / Coast Run gameplay">
+<img src="images/apex-coast-run.webp" width="512" alt="APEX / Coast Run gameplay">
 
 Inspired by Need for Speed. Coastal arcade racer; mobile/desktop perf modes. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/mindblown_ai/status/2097053892152594854)
 
 #### [Storm Race](https://storm-race.vercel.app)
 
-<img src="images/storm-race.webp" width="368" alt="Storm Race gameplay">
+<img src="images/storm-race.webp" width="512" alt="Storm Race gameplay">
 
 Inspired by Bakusou Kyoudai Let's & Go!! (mini 4WD / childhood racing). Browser 3D racing; selectable/customizable vehicles; tracks; racing HUD; GPT-6 Astra + Three.js. Possible launch: ~2026-09-06. Source: [Tweet](https://x.com/threejs/status/2096864793873547713)
 
 #### [Rocket Arena](https://rl-opus5.vercel.app/)
 
-<img src="images/rocket-arena.webp" width="368" alt="Rocket Arena gameplay">
+<img src="images/rocket-arena.webp" width="512" alt="Rocket Arena gameplay">
 
 Inspired by Rocket League. Three.js + Rapier physics; bots; gamepad; Cloudflare Worker multiplayer. Possible launch: ~2026-07-24. Source: [Tweet](https://x.com/LLMJunky/status/2080740121398120655)
 
 #### [Kart Royale](https://racing.ryancampbell.com/)
 
-<img src="images/kart-royale.webp" width="368" alt="Kart Royale gameplay">
+<img src="images/kart-royale.webp" width="512" alt="Kart Royale gameplay">
 
 Inspired by Mario Kart. Browser kart racer; Opus 5-built; controls/camera/mobile/perf. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/mattshumer_/status/2082509137024274544)
 
@@ -53,25 +53,25 @@ Inspired by Mario Kart. Browser kart racer; Opus 5-built; controls/camera/mobile
 
 #### [Claude of Duty: Vibe Slops II](https://vibeslops.luckeysystems.com/)
 
-<img src="images/vibe-slops-ii.webp" width="368" alt="Claude of Duty: Vibe Slops II gameplay">
+<img src="images/vibe-slops-ii.webp" width="512" alt="Claude of Duty: Vibe Slops II gameplay">
 
 Inspired by Call of Duty: Black Ops II. Three.js FPS; BO2 map export; gunplay; multiplayer-style flow. Possible launch: ~2026-09-02. Source: [Tweet](https://x.com/threejs/status/2096829728170897425)
 
 #### [Modern Claudefare](https://www.modernclaudefare.com/)
 
-<img src="images/modern-claudefare.webp" width="368" alt="Modern Claudefare gameplay">
+<img src="images/modern-claudefare.webp" width="512" alt="Modern Claudefare gameplay">
 
 Inspired by Call of Duty / Modern Warfare multiplayer (Rust, Nuketown, Highrise, Terminal). Three.js; bots + up to 4-player MP with voice; TDM/FFA; procedural weapons; controller support; desktop-oriented. Possible launch: ~2026-08-03. Source: [Tweet](https://x.com/0xRishi/status/2084322235788226653)
 
 #### [Claude of Duty](https://ericspencer.us/Claude-of-Duty/)
 
-<img src="images/claude-of-duty.webp" width="368" alt="Claude of Duty gameplay">
+<img src="images/claude-of-duty.webp" width="512" alt="Claude of Duty gameplay">
 
 Inspired by modern Call of Duty FPS. Distinct from Vibe Slops II. Three.js + WebGL2; procedural art/audio; ADS/lean/AI; [open source](https://github.com/mshumer/Claude-of-Duty). Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/mattshumer_/status/2081054356405731740)
 
 #### [Astral War](https://astralwar.io/)
 
-<img src="images/astral-war.webp" width="368" alt="Astral War gameplay">
+<img src="images/astral-war.webp" width="512" alt="Astral War gameplay">
 
 Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplayer lobbies; bots; perks; controller; voice chat. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/0xRishi/status/2096079660605997264)
 
@@ -80,19 +80,19 @@ Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplay
 
 #### [Vesperfall](https://vesperfall.mengto.chatgpt.site)
 
-<img src="images/vesperfall.webp" width="368" alt="Vesperfall gameplay">
+<img src="images/vesperfall.webp" width="512" alt="Vesperfall gameplay">
 
 Inspired by Diablo-style isometric action RPGs. Three.js; camera; VFX; audio; monsters; combat; open-source assets/skills. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/MengTo/status/2080915786206789733)
 
 #### [The Long Silence](https://longsilence.anshu.dev/)
 
-<img src="images/the-long-silence.webp" width="368" alt="The Long Silence gameplay">
+<img src="images/the-long-silence.webp" width="512" alt="The Long Silence gameplay">
 
 Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; zero external assets; ship walk + flight + landings; MIT open source. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/anshuc/status/2081801966158811506)
 
 #### [Starfall](https://e01.ai/starfall/)
 
-<img src="images/starfall.webp" width="368" alt="Starfall gameplay">
+<img src="images/starfall.webp" width="512" alt="Starfall gameplay">
 
 Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/mikeluan123/status/2081716631986983093)
 
@@ -101,43 +101,43 @@ Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Poss
 
 #### [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter)
 
-<img src="images/doodle-district.webp" width="368" alt="Doodle District gameplay">
+<img src="images/doodle-district.webp" width="512" alt="Doodle District gameplay">
 
 Original browser shooter. Three.js doodle/sketch-style shooter; playable in-browser. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/threejs/status/2096941028297109808)
 
 #### [Voxpolia](https://endstreet.itch.io/voxpolia)
 
-<img src="images/voxpolia.webp" width="368" alt="Voxpolia gameplay">
+<img src="images/voxpolia.webp" width="512" alt="Voxpolia gameplay">
 
 Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
 
 #### [Cycle](https://cycle.ui8.dev)
 
-<img src="images/cycle.webp" width="368" alt="Cycle gameplay">
+<img src="images/cycle.webp" width="512" alt="Cycle gameplay">
 
 Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
 
 #### [Waldo](https://waldo.brutefloat.com)
 
-<img src="images/waldo.webp" width="368" alt="Waldo gameplay">
+<img src="images/waldo.webp" width="512" alt="Waldo gameplay">
 
 Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
 
 #### [Operation Ironhold](https://starknightt.github.io/operation-ironhold/)
 
-<img src="images/operation-ironhold.webp" width="368" alt="Operation Ironhold gameplay">
+<img src="images/operation-ironhold.webp" width="512" alt="Operation Ironhold gameplay">
 
 Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
 
 #### [NFTURBO](https://nfturbo.polaris.city/)
 
-<img src="images/nfturbo.webp" width="368" alt="NFTURBO gameplay">
+<img src="images/nfturbo.webp" width="512" alt="NFTURBO gameplay">
 
 Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launch: ~2026-07-18. Source: [Tweet](https://x.com/brvchss/status/2078421321856245846)
 
 #### [King's Gambit](https://medieval-3d-chess.rork.app/)
 
-<img src="images/kings-gambit.webp" width="368" alt="King's Gambit gameplay">
+<img src="images/kings-gambit.webp" width="512" alt="King's Gambit gameplay">
 
 Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
 
