@@ -4,9 +4,20 @@ This is a list of classic fun games that you can play in the browser.
 
 Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public tweet found that announces or shares the playable game. Source tweets may be later high-engagement discovery posts.
 
+## 📑 Table of Contents
+
+- [🦄 Remakes / inspired-by](#remakes)
+  - [🏎️ Racing](#racing)
+  - [🔫 First-person shooters](#first-person-shooters)
+  - [🎮 Others](#others)
+- [🥳 Originals](#originals)
+- [🤝 Contributing](#contributing)
+
+<a name="remakes" id="remakes"></a>
 ## 🦄 Remakes / inspired-by
 
-### Racing
+<a name="racing" id="racing"></a>
+### 🏎️ Racing
 
 #### [Hop.Earth](https://hop.earth/)
 
@@ -38,7 +49,8 @@ Inspired by Rocket League. Three.js + Rapier physics; bots; gamepad; Cloudflare 
 
 Inspired by Mario Kart. Browser kart racer; Opus 5-built; controls/camera/mobile/perf. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/mattshumer_/status/2082509137024274544)
 
-### First-person shooters
+<a name="first-person-shooters" id="first-person-shooters"></a>
+### 🔫 First-person shooters
 
 #### [Claude of Duty: Vibe Slops II](https://vibeslops.luckeysystems.com/)
 
@@ -64,7 +76,8 @@ Inspired by modern Call of Duty FPS. Distinct from Vibe Slops II. Three.js + Web
 
 Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplayer lobbies; bots; perks; controller; voice chat. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/0xRishi/status/2096079660605997264)
 
-### Others
+<a name="others" id="others"></a>
+### 🎮 Others
 
 #### [Vesperfall](https://vesperfall.mengto.chatgpt.site)
 
@@ -84,6 +97,7 @@ Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; ze
 
 Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/mikeluan123/status/2081716631986983093)
 
+<a name="originals" id="originals"></a>
 ## 🥳 Originals
 
 #### [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter)
@@ -128,6 +142,7 @@ Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launc
 
 Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
 
-## Contributing
+<a name="contributing" id="contributing"></a>
+## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding or changing entries.
