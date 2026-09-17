@@ -11,7 +11,6 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
   - [🔫 First-person shooters](#first-person-shooters)
   - [🎮 Others](#others)
 - [🥳 Originals](#originals)
-- [🤝 Contributing](#contributing)
 
 <a name="remakes" id="remakes"></a>
 ## 🦄 Remakes / inspired-by
