@@ -75,6 +75,12 @@ Inspired by modern Call of Duty FPS. Distinct from Vibe Slops II. Three.js + Web
 
 Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplayer lobbies; bots; perks; controller; voice chat. Possible launch: ~2026-09-04. Source: [Tweet](https://x.com/0xRishi/status/2096079660605997264)
 
+#### [Three.js Descent](https://mrdoob.github.io/three-descent/)
+
+<img src="images/threejs-descent.webp" width="512" alt="Three.js Descent gameplay">
+
+Inspired by Descent. Three.js 6DOF FPS port; shareware Episode 1; [open source](https://github.com/mrdoob/three-descent). Possible launch: ~2026-02-05. Source: [Tweet](https://x.com/mrdoob/status/2019639702438179153)
+
 <a name="others" id="others"></a>
 ### 🎮 Others
 
@@ -95,6 +101,12 @@ Inspired by Outer Wilds / Starfield-style space exploration. Three.js/WebGL2; ze
 <img src="images/starfall.webp" width="512" alt="Starfall gameplay">
 
 Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Possible launch: ~2026-07-27. Source: [Tweet](https://x.com/mikeluan123/status/2081716631986983093)
+
+#### [Super Smash Royale](https://smashroyale.io)
+
+<img src="images/super-smash-royale.webp" width="512" alt="Super Smash Royale gameplay">
+
+Inspired by Super Smash Bros. Melee/Brawl-style fighter BR. Browser battle royale; 45 characters; solo + multiplayer; controller support; GPT-6 Astra + Three.js. Possible launch: ~2026-09-11. Source: [Tweet](https://x.com/0xRishi/status/2098439358537990194)
 
 <a name="originals" id="originals"></a>
 ## 🥳 Originals
@@ -140,6 +152,12 @@ Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launc
 <img src="images/kings-gambit.webp" width="512" alt="King's Gambit gameplay">
 
 Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
+
+#### [Alder Valley Rail Atelier](https://alder-valley-rail-atelier.nickfromlater.chatgpt.site)
+
+<img src="images/alder-valley-rail-atelier.webp" width="512" alt="Alder Valley Rail Atelier gameplay">
+
+Original model-railroad sim. Interactive layout; Astra + Three.js; no external assets. Possible launch: ~2026-09-08. Source: [Tweet](https://x.com/nickfromlater/status/2097355845524726084)
 
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
