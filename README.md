@@ -2,6 +2,8 @@
 
 This is a list of AI-made games you can play in the browser — remakes of familiar titles as well as original games.
 
+See also [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games), a companion list of playable games built mostly with AI, grouped by genre with the AI tools behind each.
+
 Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public tweet found that announces or shares the playable game. Source tweets may be later high-engagement discovery posts.
 
 ## 📑 Table of Contents
