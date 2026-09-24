@@ -159,6 +159,12 @@ Original 3D chess with battle presentation. Fully playable in browser. Possible 
 
 Original model-railroad sim. Interactive layout; Astra + Three.js; no external assets. Possible launch: ~2026-09-08. Source: [Tweet](https://x.com/nickfromlater/status/2097355845524726084)
 
+#### [Pocket Skatepark](https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232)
+
+<img src="images/pocket-skatepark.webp" width="512" alt="Pocket Skatepark gameplay">
+
+Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
+
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
 
