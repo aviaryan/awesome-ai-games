@@ -165,7 +165,12 @@ Original model-railroad sim. Interactive layout; Astra + Three.js; no external a
 
 Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
 
+## Related Lists
+
+* [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Games built mostly with AI, grouped by genre with the AI tools & frameworks behind each.
+
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding or changing entries.
+
