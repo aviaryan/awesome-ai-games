@@ -56,7 +56,7 @@ README legend (do not reword it in the README):
 
 ## Originals marker
 
-- **Original** games (not remakes or clones of a classic) use the ✨ emoji and go under `### Originals`
+- **Original** games (not remakes or clones of a classic) use the ✨ emoji and go under the matching sub-category of `### Originals`
 - **Remakes / inspired-by** name the classic (`Inspired by …`) and go under `### Remakes / inspired-by`
 
 README legend (keep this wording):
@@ -73,7 +73,16 @@ Under `### Remakes / inspired-by`, order by category. Use these groupings, in th
 
 Follow the heading names already in the README when they exist (`#### Racing`, `#### First-person shooters`, `#### Others`). Put a remake in the matching category. Use **Others** instead of creating a one-game heading.
 
-Originals stay in a single `### Originals` list.
+## Category ordering (originals)
+
+Under `### Originals`, order by category. Use these groupings, in this order:
+
+1. **Racing**
+2. **First-person shooters**
+3. **Flight / Sim**
+4. **Others** — leftover genres that do not warrant their own section
+
+Follow the heading names already in the README when they exist (`#### Racing`, `#### First-person shooters`, `#### Flight / Sim`, `#### Others`). Put an original in the matching category. Use **Others** instead of creating a one-game heading.
 
 ## Entry shape
 

@@ -11,6 +11,10 @@ Possible launch dates (`~YYYY-MM-DD`) are estimates from the earliest public twe
   - [🔫 First-person shooters](#first-person-shooters)
   - [🎮 Others](#others)
 - [🥳 Originals](#originals)
+  - [🏎️ Racing](#originals-racing)
+  - [🔫 First-person shooters](#originals-first-person-shooters)
+  - [✈️ Flight / Sim](#originals-flight-sim)
+  - [🎮 Others](#originals-others)
 
 <a name="remakes" id="remakes"></a>
 ## 🦄 Remakes / inspired-by
@@ -117,6 +121,24 @@ Inspired by Super Smash Bros. Melee/Brawl-style fighter BR. Browser battle royal
 <a name="originals" id="originals"></a>
 ## 🥳 Originals
 
+<a name="originals-racing" id="originals-racing"></a>
+### 🏎️ Racing
+
+#### [Cycle](https://cycle.ui8.dev)
+
+<img src="images/cycle.webp" width="512" alt="Cycle gameplay">
+
+Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
+
+#### [NFTURBO](https://nfturbo.polaris.city/)
+
+<img src="images/nfturbo.webp" width="512" alt="NFTURBO gameplay">
+
+Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launch: ~2026-07-18. Source: [Tweet](https://x.com/brvchss/status/2078421321856245846)
+
+<a name="originals-first-person-shooters" id="originals-first-person-shooters"></a>
+### 🔫 First-person shooters
+
 #### [Doodle District](https://doodleshooter.vercel.app/) (aka Doodle Shooter)
 
 <img src="images/doodle-district.webp" width="512" alt="Doodle District gameplay">
@@ -129,47 +151,20 @@ Original browser shooter. Three.js doodle/sketch-style shooter; playable in-brow
 
 Original voxel/low-poly FPS city shooter. First-person gunplay; urban exploration; destruction; free browser demo on itch.io. Possible launch: ~2026-08-28. Source: [Tweet](https://x.com/threejs/status/2093486880339939677)
 
-#### [Cycle](https://cycle.ui8.dev)
-
-<img src="images/cycle.webp" width="512" alt="Cycle gameplay">
-
-Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + GPT-6 Astra. Possible launch: ~2026-09-07. Source: [Tweet](https://x.com/threejs/status/2096980160545182093)
-
-#### [Waldo](https://waldo.brutefloat.com)
-
-<img src="images/waldo.webp" width="512" alt="Waldo gameplay">
-
-Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
-
 #### [Operation Ironhold](https://starknightt.github.io/operation-ironhold/)
 
 <img src="images/operation-ironhold.webp" width="512" alt="Operation Ironhold gameplay">
 
 Original Claude Opus FPS. Four weapons; ADS/recoil/reload; AI enemies; cover/flanking; mantle/double-jump. Possible launch: ~2026-07-25. Source: [Tweet](https://x.com/prasenx/status/2081022068561469715)
 
-#### [NFTURBO](https://nfturbo.polaris.city/)
-
-<img src="images/nfturbo.webp" width="512" alt="NFTURBO gameplay">
-
-Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launch: ~2026-07-18. Source: [Tweet](https://x.com/brvchss/status/2078421321856245846)
-
-#### [King's Gambit](https://medieval-3d-chess.rork.app/)
-
-<img src="images/kings-gambit.webp" width="512" alt="King's Gambit gameplay">
-
-Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
+<a name="originals-flight-sim" id="originals-flight-sim"></a>
+### ✈️ Flight / Sim
 
 #### [Alder Valley Rail Atelier](https://alder-valley-rail-atelier.nickfromlater.chatgpt.site)
 
 <img src="images/alder-valley-rail-atelier.webp" width="512" alt="Alder Valley Rail Atelier gameplay">
 
 Original model-railroad sim. Interactive layout; Astra + Three.js; no external assets. Possible launch: ~2026-09-08. Source: [Tweet](https://x.com/nickfromlater/status/2097355845524726084)
-
-#### [Pocket Skatepark](https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232)
-
-<img src="images/pocket-skatepark.webp" width="512" alt="Pocket Skatepark gameplay">
-
-Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
 
 #### [Flight Simulator 2025](https://fly.pieter.com/)
 
@@ -188,6 +183,27 @@ Original cozy exploration game. Biplane, magic carpet, or boat around a tiny wor
 <img src="images/firewood-splitting-simulator.webp" width="512" alt="Firewood Splitting Simulator gameplay">
 
 Original firewood-splitting simulator. 3D-scanned stump, axe, and logs; recorded splitting sounds; Three.js. Possible launch: ~2026-06-09. Source: [Tweet](https://x.com/shapiro500/status/2064335363619819629)
+
+<a name="originals-others" id="originals-others"></a>
+### 🎮 Others
+
+#### [Waldo](https://waldo.brutefloat.com)
+
+<img src="images/waldo.webp" width="512" alt="Waldo gameplay">
+
+Original first-person find-Waldo in a moving crowd. Browser playable; Claude-made. Possible launch: ~2026-08-29. Source: [Tweet](https://x.com/notesbyfloat/status/2093903701605831040)
+
+#### [King's Gambit](https://medieval-3d-chess.rork.app/)
+
+<img src="images/kings-gambit.webp" width="512" alt="King's Gambit gameplay">
+
+Original 3D chess with battle presentation. Fully playable in browser. Possible launch: ~2026-08-02. Source: [Tweet](https://x.com/alexcooldev/status/2083921916935700661)
+
+#### [Pocket Skatepark](https://studio.sandbox.game/play/0ab9fde7-b8e3-419a-8bf7-7b9c971d6232)
+
+<img src="images/pocket-skatepark.webp" width="512" alt="Pocket Skatepark gameplay">
+
+Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
 
 ## Related Lists
 
