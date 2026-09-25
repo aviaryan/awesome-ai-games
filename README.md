@@ -81,6 +81,12 @@ Inspired by Call of Duty: World at War. GPT-6 Astra Ultra browser FPS; multiplay
 
 Inspired by Descent. Three.js 6DOF FPS port; shareware Episode 1; [open source](https://github.com/mrdoob/three-descent). Possible launch: ~2026-02-05. Source: [Tweet](https://x.com/mrdoob/status/2019639702438179153)
 
+#### [Three.js Quake](https://mrdoob.github.io/three-quake/)
+
+<img src="images/threejs-quake.webp" width="512" alt="Three.js Quake gameplay">
+
+Inspired by Quake. Distinct from Three.js Descent. Three.js FPS port; shareware Episode 1; [open source](https://github.com/mrdoob/three-quake). Possible launch: ~2026-01-24. Source: [Tweet](https://x.com/mrdoob/status/2015076521531355583)
+
 <a name="others" id="others"></a>
 ### 🎮 Others
 
@@ -164,6 +170,24 @@ Original model-railroad sim. Interactive layout; Astra + Three.js; no external a
 <img src="images/pocket-skatepark.webp" width="512" alt="Pocket Skatepark gameplay">
 
 Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
+
+#### [Flight Simulator 2025](https://fly.pieter.com/)
+
+<img src="images/flight-simulator-2025.webp" width="512" alt="Flight Simulator 2025 gameplay">
+
+Original multiplayer flight simulator. Free-to-play MMO; fly and dogfight online; Three.js. Possible launch: ~2025-02-22. Source: [Tweet](https://x.com/levelsio/status/1894125123197964542)
+
+#### [Tiny Skies](https://tinyskies.vercel.app/)
+
+<img src="images/tiny-skies.webp" width="512" alt="Tiny Skies gameplay">
+
+Original cozy exploration game. Biplane, magic carpet, or boat around a tiny world; Vibe Jam 2026 Most Polished. Possible launch: ~2026-04-09. Source: [Tweet](https://x.com/DannyLimanseta/status/2051306060020072632)
+
+#### [Firewood Splitting Simulator](https://screen.toys/firewood/)
+
+<img src="images/firewood-splitting-simulator.webp" width="512" alt="Firewood Splitting Simulator gameplay">
+
+Original firewood-splitting simulator. 3D-scanned stump, axe, and logs; recorded splitting sounds; Three.js. Possible launch: ~2026-06-09. Source: [Tweet](https://x.com/shapiro500/status/2064335363619819629)
 
 ## Related Lists
 
