@@ -161,7 +161,12 @@ Original 3D chess with battle presentation. Fully playable in browser. Possible 
 
 Original model-railroad sim. Interactive layout; Astra + Three.js; no external assets. Possible launch: ~2026-09-08. Source: [Tweet](https://x.com/nickfromlater/status/2097355845524726084)
 
+## Related Lists
+
+* [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Games built mostly with AI, grouped by genre with the AI tools & frameworks behind each.
+
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before adding or changing entries.
+
