@@ -136,6 +136,12 @@ Original stylized 3D bicycle riding game. Urban bike riding; Three.js; Forge + G
 
 Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launch: ~2026-07-18. Source: [Tweet](https://x.com/brvchss/status/2078421321856245846)
 
+#### [VibeSail](https://vibesail.com)
+
+<img src="images/vibesail.webp" width="512" alt="VibeSail gameplay">
+
+Original browser sailing game. Daily races and a leaderboard; rudder and sail controls; sail anywhere on Earth using Google 3D map tiles (vibesail.com/world). Possible launch: ~2025-02-27. Source: [Tweet](https://x.com/NicolaManzini/status/2030835457316000158)
+
 <a name="originals-first-person-shooters" id="originals-first-person-shooters"></a>
 ### 🔫 First-person shooters
 
