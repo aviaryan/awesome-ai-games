@@ -140,7 +140,7 @@ Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launc
 
 <img src="images/vibesail.webp" width="512" alt="VibeSail gameplay">
 
-Original browser sailing game. Daily races and a leaderboard; rudder and sail controls; sail anywhere on Earth using Google 3D map tiles (vibesail.com/world). Possible launch: ~2026-03-08. Source: [Tweet](https://x.com/NicolaManzini/status/2030835457316000158)
+Original browser sailing game. Daily races and a leaderboard; rudder and sail controls; sail anywhere on Earth using Google 3D map tiles (vibesail.com/world). Possible launch: ~2025-02-27. Source: [Tweet](https://x.com/NicolaManzini/status/2030835457316000158)
 
 <a name="originals-first-person-shooters" id="originals-first-person-shooters"></a>
 ### 🔫 First-person shooters
