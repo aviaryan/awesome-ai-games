@@ -211,6 +211,12 @@ Original 3D chess with battle presentation. Fully playable in browser. Possible 
 
 Original cel-shaded city skatepark. Tricks/combos; Score Attack; Color Mode / Free Skate; leaderboard; quests/NPCs; Three.js / Sandbox Studio. Possible launch: ~2026-07-28. Source: [Tweet](https://x.com/threejs/status/2084636900791329090)
 
+#### [Claybound](https://claybound-56949.web.app/)
+
+<img src="images/claybound.webp" width="512" alt="Claybound gameplay">
+
+Original clay-styled 3D platformer. Levels, coins, and hazards; Three.js. Possible launch: ~2026-09-26. Source: [Tweet](https://x.com/threejs/status/2103709424271687813)
+
 ## Related Lists
 
 * [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Games built mostly with AI, grouped by genre with the AI tools & frameworks behind each.
