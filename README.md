@@ -91,6 +91,12 @@ Inspired by Descent. Three.js 6DOF FPS port; shareware Episode 1; [open source](
 
 Inspired by Quake. Distinct from Three.js Descent. Three.js FPS port; shareware Episode 1; [open source](https://github.com/mrdoob/three-quake). Possible launch: ~2026-01-24. Source: [Tweet](https://x.com/mrdoob/status/2015076521531355583)
 
+#### [CSJS](https://csjs.live)
+
+<img src="images/csjs.webp" width="512" alt="CSJS gameplay">
+
+Inspired by Counter-Strike. Counter-Strike 1.6 in the browser via Xash3D and WebAssembly; live multiplayer servers (Dust2, Inferno, Office, Surf, Zombie Mod); no account needed. Possible launch: ~2026-10-07. Source: [Tweet](https://x.com/aisearchio/status/2109765770876264757)
+
 <a name="others" id="others"></a>
 ### 🎮 Others
 
