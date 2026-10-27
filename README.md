@@ -226,6 +226,7 @@ Original clay-styled 3D platformer. Levels, coins, and hazards; Three.js. Possib
 ## Related Lists
 
 * [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Games built mostly with AI, grouped by genre with the AI tools & frameworks behind each.
+* [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for AI game-dev tools (source-cited).
 
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
