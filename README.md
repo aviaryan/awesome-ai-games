@@ -226,6 +226,7 @@ Original clay-styled 3D platformer. Levels, coins, and hazards; Three.js. Possib
 ## Related Lists
 
 * [Awesome AI-Built Games](https://github.com/lappemic/awesome-ai-built-games) - Games built mostly with AI, grouped by genre with the AI tools & frameworks behind each.
+* [Awesome Fable 5.2](https://github.com/fengyiqicoder/awesome-fable-5.2) - Games, 3D worlds and web pages built with Claude Fable 5.2, with GIF previews and playable links.
 
 <a name="contributing" id="contributing"></a>
 ## 🤝 Contributing
