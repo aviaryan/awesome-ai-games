@@ -124,6 +124,12 @@ Inspired by Homeworld-style space RTS. Universe-scale Three.js browser RTS. Poss
 
 Inspired by Super Smash Bros. Melee/Brawl-style fighter BR. Browser battle royale; 45 characters; solo + multiplayer; controller support; GPT-6 Astra + Three.js. Possible launch: ~2026-09-11. Source: [Tweet](https://x.com/0xRishi/status/2098439358537990194)
 
+#### [Tennis](https://tennis.sixfingerpunch.com/)
+
+<img src="images/tennis.webp" width="512" alt="Tennis gameplay">
+
+Inspired by Pong. Starts as classic Pong, then escalates into a cutscene and wilder 4D mechanics; built with Fable 5.2. Possible launch: ~2026-11-11. Source: [Tweet](https://x.com/photonstorm/status/2120330010112434313)
+
 <a name="originals" id="originals"></a>
 ## 🥳 Originals
 
@@ -147,6 +153,18 @@ Original 3D arcade kart racer. Codex + Claude; free browser play. Possible launc
 <img src="images/vibesail.webp" width="512" alt="VibeSail gameplay">
 
 Original browser sailing game. Daily races and a leaderboard; rudder and sail controls; sail anywhere on Earth using Google 3D map tiles (vibesail.com/world). Possible launch: ~2025-02-27. Source: [Tweet](https://x.com/NicolaManzini/status/2030835457316000158)
+
+#### [Tesla Roadster League](https://ragingbot.app/roadster)
+
+<img src="images/tesla-roadster-league.webp" width="512" alt="Tesla Roadster League gameplay">
+
+Original Tesla Roadster stunt-driving game with multiplayer. Three.js; Rapier physics; Cloudflare multiplayer; stunt park, time attack, Rocket League-style mode, car showroom; built with Opus 5.5. Possible launch: ~2026-10-16. Source: [Tweet](https://x.com/aymericrabot/status/2111519266898169925)
+
+#### [Lost Marbles](https://meticulai.com/games/lost-marbles/)
+
+<img src="images/lost-marbles.webp" width="512" alt="Lost Marbles gameplay">
+
+Original 50-marble battle-royale race down toy-block courses. Three.js; online rooms; power-ups; built with Claude. Possible launch: ~2026-10-17. Source: [Tweet](https://x.com/MeticulAi/status/2111568537684955500)
 
 <a name="originals-first-person-shooters" id="originals-first-person-shooters"></a>
 ### 🔫 First-person shooters
